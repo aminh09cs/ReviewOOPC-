@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Stores\" />
+    <None Remove="Pizzas\" />
+    <None Remove="Pizzas\Base\" />
+    <None Remove="Pizzas\HUEPizzas\" />
+    <None Remove="Pizzas\DNPizzas\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Stores\" />
+    <Folder Include="Pizzas\" />
+    <Folder Include="Pizzas\Base\" />
+    <Folder Include="Pizzas\HUEPizzas\" />
+    <Folder Include="Pizzas\DNPizzas\" />
+  </ItemGroup>
+</Project>

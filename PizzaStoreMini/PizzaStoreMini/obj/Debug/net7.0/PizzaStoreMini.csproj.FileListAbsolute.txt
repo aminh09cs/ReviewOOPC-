@@ -1,0 +1,14 @@
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/bin/Debug/net7.0/PizzaStoreMini
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/bin/Debug/net7.0/PizzaStoreMini.deps.json
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/bin/Debug/net7.0/PizzaStoreMini.runtimeconfig.json
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/bin/Debug/net7.0/PizzaStoreMini.dll
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/bin/Debug/net7.0/PizzaStoreMini.pdb
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/obj/Debug/net7.0/PizzaStoreMini.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/obj/Debug/net7.0/PizzaStoreMini.AssemblyInfoInputs.cache
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/obj/Debug/net7.0/PizzaStoreMini.AssemblyInfo.cs
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/obj/Debug/net7.0/PizzaStoreMini.csproj.CoreCompileInputs.cache
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/obj/Debug/net7.0/PizzaStoreMini.dll
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/obj/Debug/net7.0/refint/PizzaStoreMini.dll
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/obj/Debug/net7.0/PizzaStoreMini.pdb
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/obj/Debug/net7.0/PizzaStoreMini.genruntimeconfig.cache
+/Users/aminh09/Projects/PizzaStoreMini/PizzaStoreMini/obj/Debug/net7.0/ref/PizzaStoreMini.dll
